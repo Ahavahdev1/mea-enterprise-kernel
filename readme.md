@@ -94,7 +94,3 @@ code
 Code
 ---
 
-### Por que esse README é perfeito?
-1. **Visual de Impacto:** Usa ícones, badges limpos e diagramas em caixas de texto que dão um ar extremamente profissional.
-2. **Autoridade Técnica:** Apresenta os números reais de microssegundos e gigabytes/kilobytes que você mediu.
-3. **Proteção Total:** Deixa claro que os motores pesados são proprietários, mas entrega o script de showcase (`mea_singularity_autocura_Publico.py`) e os testes de entropia para que qualquer um veja a robustez do projeto. 
